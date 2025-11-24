@@ -55,7 +55,7 @@ Setup Development Environment
 bash
 
 # Clone repository
-git clone https://github.com/YOUR_USERNAME/wardrobe-ai-android.git
+git clone https://github.com/PrachiDhiman5/wardrobe-ai-android.git
 cd wardrobe-ai-android
 
 # Create virtual environment
